@@ -1,10 +1,8 @@
 const chapters = {
-      "Atos de Noctheria": [
+      "Prelúdio de Noctheria": [
         {
-          titulo: "Ato I - Antes do Silêncio",
+          titulo: "A Nação da Noite Eterna",
           texto: `
-
-<img src="https://i.ibb.co/1YPHvngK/Primordial.webp" alt="Ilustração de Noctheria iluminada" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">     
 <p>No começo, havia apenas escuridão. Noctheria, conhecida como a Nação da Noite Eterna, era envolta por trevas tão densas que nenhum mortal ousava viver ali. Criaturas perigosas percorriam a terra livremente, e o ar parecia carregar um medo silencioso, constante.</p>
 <p>Mas o destino nem sempre segue o esperado. Uma guerra entre seres antigos e poderosos irrompeu, e por motivos desconhecidos, em meio àquela guerra, o primeiro raio de luz atravessou o céu sobre Noctheria. Essa luz rompeu a escuridão e transformou aquele território esquecido em um lugar finalmente habitável.</p>
 <p>Foi então que um rei exilado, fugindo de um reino vizinho, durante uma revolução em toda a nação, viu ali uma chance de recomeço. Ele fundou uma vila simples no coração de Noctheria. Aqueles que ainda seguiam ele, estavam cansados, mas esperançosos, se uniram a ele. Com o tempo, o povo construiu lares, formou famílias e a vida floresceu sob aquela nova luz. A vila cresceu, tornou-se próspera e logo se transformou em um centro rico e respeitado.</p>
@@ -61,13 +59,6 @@ const chapters = {
 <p>Vaelaris tremia, dividida entre resistir e ceder. A fronteira entre sua própria consciência e aquela entidade estranha começava a desaparecer, arrastando-a para um abismo de confusão e medo.</p>
 <p>Seus passos tornaram-se hesitantes. Seus olhos carmesins brilhavam com uma luz estranha no breu da floresta. A jovem sentia sua mente se despedaçar lentamente, como se travasse uma guerra silenciosa contra uma força que se enraizava em seu interior, moldando seus pensamentos e vontades.</p>
 <p>Enquanto Vireyra atravessava os portões de um vilarejo desconhecido, carregando nas costas o peso da dor e o fio frágil da esperança, Vaelaris mergulhava mais fundo na floresta — engolida pelas vozes que sussurravam seu destino, deixando para trás tudo o que conhecia... E tudo o que um dia foi.</p>
-    `,
-          wallpaper: "https://i.ibb.co/6cSgGzKb/Novo-Projeto-13.png"
-        },
-        {
-          titulo: "Ato II - Fragmentos de Um Adeus",
-          texto: `
-<img src="https://i.ibb.co/JDqTjTL/Vael-And-Ais.webp" alt="Ilustração de Noctheria iluminada" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">
 <p>As paredes sussurram os pecados de quem caiu — mas também os de quem ficou.</p>
 <p>Mais de cinco anos haviam se passado desde o desaparecimento da garota. Agora com cerca de quinze anos, ela havia se adaptado à vida solitária na floresta. Refugiava-se em áreas remotas e quase inacessíveis, especialmente próximas a lagos escondidos, onde bebia água limpa, se banhava e pescava com mãos ágeis e olhos atentos. Alimentava-se principalmente de peixes e frutas silvestres. Com o tempo, desenvolveu um vínculo silencioso com pequenos animais — coelhos, esquilos, pássaros — que pareciam não temê-la. Já os maiores, por outro lado, ainda a viam como ameaça… ou como presa.</p>
 <p>Apesar de ter se tornado mais forte, veloz e discreta, ela ainda carregava memórias antigas. Em dias chuvosos ou momentos de paz à beira do lago, pensava em sua mãe. Perguntava-se se ela ainda estava viva, se pensava nela… ou se simplesmente seguiu em frente. Talvez tivesse outra filha agora. A dúvida era como uma ferida que não cicatrizava — mas com a qual ela aprendeu a conviver.</p>
@@ -105,38 +96,13 @@ const chapters = {
 <p>— Essa é a guilda de Kaelvaron. A Lança da Vigília. - Disse Elaria.</p>
 <p>Vaelaris examinava o local quando sentiu alguém se aproximar por trás. Uma mão tocou seu ombro. Ela se virou e viu uma mulher de cabelos curtos e marcas de queimadura no corpo, com um arco nas costas. Ao lado dela, um rapaz de cabelos escuros e bagunçados, com uma espada na cintura.</p>
 <p>— Ora, ora... Elaria trouxe mais uma criança perdida — disse a mulher com sarcasmo. — Essa elfa adora bancar a heroína.</p>
-<p>Ela falou com voz monótona e neutra, ficou quieta por um momento e então olhou para o rio.</p>
-<p>“Eu queria ir embora da floresta... Você é uma elfa, deve ter um vilarejo por perto...”</p>
-<p>Ela voltou o olhar para Elaria e perguntou:</p>
-<p>“Será que eu poderia ir junto com você?”</p>
-<p>Elaria, ao ouvir o pedido de Vaelaris, hesitou. Aquela garota tinha algo de estranho — principalmente os seus olhos. As lendas antigas de seu vilarejo diziam que pessoas com olhos vermelhos só podiam ser de dois tipos: demônios — o mais comum — ou casos extremamente raros de linhagem pura, com uma mutação ancestral passada por gerações. Mas Vaelaris... ela não parecia um demônio. Não havia aura mágica nela, nenhuma presença ameaçadora, nem mesmo um resquício de magia. Isso era o que mais inquietava Elaria.</p>
-<p>Depois de alguns segundos em silêncio, encarando os olhos da garota, Elaria suspirou. Talvez fosse ingenuidade... ou curiosidade.</p>
-<p>— Certo — disse por fim. — Eu irei te levar, mas não ao meu vilarejo logo de cara. Eu ainda não conheço você, preciso antes verificar você com mais cuidado e detalhes.</p>
-<p>Ela recuou um passo, indicando que Vaelaris a seguisse. E assim as duas partiram. A elfa andava pela floresta com passos leves e graciosos, lançando olhares furtivos à jovem atrás de si.</p>
-<p>— Afinal... de onde você veio? Mora por aqui? — perguntou Elaria, sua voz calma escondendo o julgamento silencioso.</p>
-<p>— Não. Eu moro em meio à floresta. Fugi de casa ainda nova.</p>
-<p>Elaria arqueou uma sobrancelha. Aquilo trouxe à mente um relato antigo — um vilarejo que perdeu uma criança anos atrás. As peças começaram a se movimentar em sua mente, mas ela pensou que fosse besteira, já que ninguém nunca disse a aparência da garota que desapareceu.</p>
-<p>Elas caminharam por um bom tempo até que, enfim, os troncos começaram a se afastar e as copas abriram espaço para uma estrada de terra. À frente, o vilarejo ganhava forma: construções simples, barracas, placas, e criaturas de todas as raças — humanos, elfos, trolls, anões — vivendo juntos em harmonia tensa.</p>
-<p>Vaelaris olhou em volta, intrigada. Não era um vilarejo élfico. Era… algo mais misturado.</p>
-<p>— Chegamos — anunciou Elaria, interrompendo seus pensamentos. — Esse é o vilarejo. Não é onde eu moro, mas costumo vir aqui com muita frequência, é como uma segunda casa. Comercializo, ajudo, compro e pego missões.</p>
-<p>Vaelaris seguiu a elfa até uma construção maior, com um brasão de uma lança à frente de um escudo com uma caixa embaixo, enferrujada, pendurada na entrada. Um salão barulhento por dentro, como uma taverna ou de uma fortaleza.</p>
-<p>— Aqui é a guilda da Lança da Vigília do vilarejo de Kaelvaron. — explicou Elaria.</p>
-<p>Vaelaris observava o ambiente, até sentir uma presença se aproximar por trás. Uma mão pousou em seu ombro, e ela se virou instintivamente. Atrás dela, uma mulher com cabelos curtos e pretos, marcas de queimadura no rosto e um arco nas costas. Ao seu lado, um jovem de cabelos compridos e bagunçados também pretos, com uma mecha caindo sobre os olhos e uma espada pendurada na cintura.</p>
-<p>— Ora ora... parece que Elaria trouxe mais uma criança perdida da floresta — disse a mulher, com um sorriso irônico. — Essa elfa adora bancar a heroína.</p>
 <p>— Não seja rude, Nyari — disse o garoto. — Elaria só gosta de ajudar. — Ele se curvou levemente diante de Vaelaris. — Olá. Me chamo Kaen. Não ligue para a Nyari, ela é meio... rude... Mas me fala, qual é o seu nome?</p>
-<p>— Vaelaris Drevan. — A resposta foi curta. Mas foi o suficiente para Kaen sorrir.</p>
+<p>— Vaelaris Drevan. — A resposta mesmo curta. Foi o suficiente para Kaen acreditar que aquela garota não fosse um caso delicado demais.</p>
 <p>— Nome bonito. Nunca ouvi nada parecido. — Ele deu o último sorriso amigável para a garota e se endireitou. Ele foi até Elaria e entregou algo e seguiu para dentro. Nyari, antes de ir, murmurou. — Boa sorte aqui, garota. Se precisar... fale com Elaria e Kaen, não encha a minha paciência.</p>
 <p>Vaelaris ficou parada, sozinha, tentando decidir o que fazer. E então, algo estranho aconteceu. Sua respiração falhou.p>
 <p>Uma espécie de placa flutuante, preta com tons vermelhos, surgiu diante dela. Fragmentada como pedaços de vidro que flutuavam, ela piscou algumas vezes e olhou em volta — mas ninguém mais parecia ver aquilo. Um aventureiro até atravessou aquela placa, enquanto lançava um olhar desconfiado.</p>
-<p>As imagens se formaram: flashes do nascimento de Vaelaris, uma mulher sorrindo, um reino em chamas, campos de batalha, desespero generalizado, uma vasta floresta, ela mesma correndo em meio a floresta fechada. Quando tudo parecia ter terminado, aquela placa desapareceu como fumaça. — Fragmentos... Aquela mulher... A floresta... Minha fuga... — sussurrou Vaelaris, tentando entender. Mas nada fazia sentido. Eram memórias, isso ela parecia entender, mas eram muito confusas, e incompletas. Com um suspiro final, ela caminhou em direção ao fundo da guilda. Mesmo sem respostas, algo dizia que aquele era apenas o começo. Algo... muito maior a esperava ali.</p>
-<img src="https://i.ibb.co/N2RNbwMN/Painel-Vael-removebg-preview.png" alt="Ilustração de Noctheria iluminada" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">
-    `,
-          wallpaper: "https://i.ibb.co/6cSgGzKb/Novo-Projeto-13.png"
-        },
-        {
-         titulo: "Ato III - Em Meio a Multidão",
-         texto: `
-<img src="https://i.ibb.co/ycNGGSDV/OsAtos.webp" alt="Ilustração de Noctheria iluminada" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">
+<p>Imagens então se formaram: flashes do nascimento de seu próprio nascimento, uma mulher sorrindo, um reino em chamas, campos de batalha, desespero generalizado, uma vasta floresta, ela mesma correndo em meio a floresta fechada. Quando tudo parecia ter terminado, aquela placa desapareceu como fumaça. — Fragmentos... Aquela mulher... A floresta... Minha fuga... — sussurrou Vaelaris, tentando entender. Mas nada fazia sentido. Eram memórias, isso ela parecia entender, mas eram muito confusas, e incompletas. Com um suspiro final, ela caminhou em direção ao fundo da guilda. Mesmo sem respostas, algo dizia que aquele era apenas o começo. Algo... muito maior a esperava ali.</p>
+<img src="https://i.ibb.co/N2RNbwMN/Painel-Vael-removebg-preview.png" alt="saymyname" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">
 <p>Vaelaris ficou um tempo parada, observando o ambiente. Seus olhos percorriam os detalhes do local, e por um momento, o som das vozes, canecos batendo e passos pesados pareceu distante. Sendo capaz apenas de ouvir o seu próprioso suspiro.</p>
 <p>— O ar aqui é diferente... Tudo é. Acho que perdi a noção do tempo em que fiquei na floresta... — Com passos lentos, ela começou a caminhar pela guilda. Observava tudo — grupos espalhados por todos os cantos: alguns sentados em mesas, outros no chão ou sobre barris de madeira. Alguns encostados nas paredes, outros de pé, conversando ou apenas bebendo algo de cor estranha em canecos rústicos. Vaelaris não fazia ideia do que era aquilo. Passar tanto tempo isolada a deixara desconectada de coisas simples.</p>
 <p>Enquanto andava por lá, ela podia sentir alguns olhares sobre ela, mas eram passageiros. Muitos a encaravam só por um segundo antes de voltarem a conversar. Outros pareciam curiosos, mas não o bastante para se aproximar. Para Vaelaris, isso era um alívio.</p>
@@ -158,14 +124,16 @@ const chapters = {
 <p>— O que acha? Podemos ir comer algo. Eu pago sua refeição. — Vaelaris hesitou, envergonhada. Mas logo conseguiu falar. — Ok… tudo bem. Se não for problema pra você... — Com isso, todos foram até um pequeno restaurante próximo. Kaen e Nyari entraram primeiro. Mas Elaria parou na porta e impediu Vaelaris de entrar. Ela se virou para a garota e se curvou na altura dela. E colocando a mão nos bolsos do seu manto, ela tirou uma pequena ampulheta, decorada com musgo e areia branca. Dentro, pedrinhas brilhavam sob a luz do fim da tarde.</p>
 <p>— Vi como você olhou praquela família… e pensei em te dar algo. Não sabia o que exatamente, então escolhi isso. Queria fazer surpresas para você, mas a partir de agora, pode me dizer o que gosta. Vai ser bom eu entender tudo para que no futuro eu possa fazer novas surpresas para você. Ela sorriu, e continuou —  Essa ampulheta vem das florestas de Noctheria. Achei que talvez pudesse gostar… já que passou tanto tempo na mata. Talvez te ajude a lembrar de onde veio… ou apenas te ajude a marcar o tempo de um jeito divertido.</p>
 <p>Com carinho, afastou uma mecha do rosto da garota e empurrou a porta. Vaelaris olhou para o presente. Depois, para Elaria. E, por um instante, viu nela o rosto de sua mãe — Ou como se lembrava dela. Uma lágrima solitária escorreu do seu olho direito. Vaelaris a limpou rápido e entrou de cabeça baixa. Elaria ficou na porta, observando. Não esperando tanta comoção por um presente tão simples. Mas isso no final fez ela sorrir, e sentir um aperto leve no peito. Talvez estivesse, de fato, começando a criar um laço com aquela garota.
-    `,
+<p>Enquanto o grupo aproveitava seu momento, em algum lugar daquele vasto mundo, oculto nas sombras, algo os observava de forma silenciosa. Aquilo parecia satisfeito. Uma voz suave, porém autoritária, murmurava para si mesma, pensativa e confiante. — Parece que meus séculos de espera finalmente vão começar a valer a pena... Não me decepcione, Vaelaris Drevan.</p>
+<img src="https://i.ibb.co/xqZDZstq/Saymyname.png" alt="saymyname" style="width:100%; max-width:600px; display:block; margin:20px auto;" loading="lazy">
+`,
           wallpaper: "https://i.ibb.co/6cSgGzKb/Novo-Projeto-13.png"
         },
       ],
 
         "Arco do lírio da névoa": [
     {
-      titulo: "1° Chama",
+      titulo: "1° Chama - O reencontro da maga Elfa",
       texto: `
 <p>O grupo agora estava em meio àquela multidão, explorando e procurando por mercadorias, mesmo que fosse praticamente impossível encontrar algo realmente bom. Afinal, para achar itens de rank considerável, é preciso chegar antes mesmo da abertura do comércio.</p>
 <p>Mas, sem perder as esperanças, o grupo vasculhava barraca por barraca à procura de itens, enquanto conversavam, se planejavam e tentavam conhecer melhor Vaelaris.</p>
@@ -173,7 +141,7 @@ const chapters = {
 <p>Entretanto, era Elaria quem mais conseguia interagir com Vaelaris. Sempre que via a garota pegando ou encarando demais algum item mágico, Elaria se aproximava e explicava o que era. Vaelaris ouvia tudo com atenção, parecendo gostar de ser ensinada. Elaria agia como uma mãe para Vaelaris, e isso a deixava feliz.</p>
 <p>Enquanto as duas ficavam vendo itens das barracas, um pouco afastados das duas, Nyari e Kaen observavam a cena. Elaria parecia uma mãe levando a filha para o mercado. Ambas sorriam de vez em quando, e, por mais que os sorrisos de Vaelaris fossem discretos, era visível o quanto elas se entendiam. Kaen achava aquilo adorável, pois nunca tinha visto Vaelaris tão à vontade com alguém, assim como Elaria também não era daquele jeito que estava agora com qualquer um.</p>
 <p>Nyari, por outro lado, não parecia gostar daquilo. Ela bufou, desviou o olhar e murmurou. — Aquela pirralha chegou agora e já tem esse nível de intimidade com a Elaria...</p>
-<p>Kaen notou a linguagem corporal dela e se aproximou com um sorriso sarcástico, tentando revidar de alguma forma os constantes ataques que sofria de Nyari. Mas o tiro saiu pela culatra, em vez de ficar envergonhada, o ciúme de Nyari se transformou em um ódio profundo. Seus olhos se fixaram nele, uma veia pulsava em sua testa, em um movimento rápido, ela avançou, puxando o cabelo dele e o imobilizando com os braços, enquanto esfregava a mão fechada contra a cabeça de Kaen. Dando um cascado nele.</p>
+<p>Kaen notou a linguagem corporal dela e se aproximou com um sorriso sarcástico, tentando revidar de alguma forma os constantes ataques que sofria de Nyari. Mas o tiro saiu pela culatra, em vez de ficar envergonhada, o ciúme de Nyari se transformou em um ódio profundo. Seus olhos se fixaram nele, uma veia pulsava em sua testa, em um movimento rápido, ela avançou, puxando o cabelo dele e o imobilizando com os braços, enquanto esfregava a mão fechada contra a cabeça de Kaen. Dando um cascudo nele.</p>
 <p>Os aventureiros e moradores locais que andavam por lá, paravam para ver a cena. Alguns riam, outros apenas olhavam confusos, mas, no geral, ninguém parecia se importar muito — mesmo com Kaen gritando, pedindo para Nyari parar e jurando que se arrependia.</p>
 <p>Enquanto os dois brigavam como cão e gato, Elaria caminhava calmamente ao lado de Vaelaris pelo comércio. As duas observavam tudo ao redor em silêncio, até que Vaelaris quebrou o silêncio. — Você acha que está tudo bem deixar aqueles dois sozinhos por aí?</p>
 <p>Elaria continuou andando, mas respondeu. — Acho que não é tão problemático assim... Eles podem parecer que vão se matar, mas no fundo eu conheço os dois. Nyari nunca faria nada realmente grave com Kaen. Ela gosta dele... só que é muito fria e traumatizada pra admitir.</p>
@@ -209,7 +177,6 @@ const chapters = {
 
    const chaptersContainer = document.getElementById('chapters-container');
 const content = document.getElementById('content');
-const musicContainer = document.getElementById('music-container');
 
 function createChapterList() {
   for (let capitulo in chapters) {
@@ -257,62 +224,29 @@ function loadAct(chapter, index) {
 function loadIntro() {
   content.scrollTop = 0;
   content.innerHTML = `
-    <h2>Seja bem-vindo(a) à Red Crown</h2>
-
-    <div class="faq-item">
-      <div class="faq-question">Como ter uma melhor experiência?</div>
-      <div class="faq-answer">
-        Para uma melhor experiência, use a versão para computador no navegador do celular.
-      </div>
+    <h2 class="welcome-title">Bem-vindo(a) à Red Crown</h2>
+    
+    <div class="book-cover-container">
+      <img src="https://i.ibb.co/zh41GwVY/noctheria-capa.png" alt="Capa do Livro" class="book-cover" />
     </div>
-
-    <div class="faq-item">
-      <div class="faq-question">Contato e feedback</div>
-      <div class="faq-answer">
-        Caso encontre algum erro ou queira enviar elogios, críticas ou sugestões, sinta-se à vontade para entrar em contato pelo meu perfil no Threads ou Twitter, ao lado da tela de atualizações.
-      </div>
-    </div>
-
-    <div class="faq-item">
-      <div class="faq-question">Aviso sobre as artes e produção</div>
-      <div class="faq-answer">
-        <strong>Somente as artes de cada seção de leitura ficarão pausadas por tempo indeterminado. Toda a história aqui escrita é de autoria minha, inspirada em animes, como sousou no friren, tensura e o jogo genshin (No tamanho da lore e de lugares)<br>
-        Estou me dedicando a aprimorar minhas habilidades em desenho digital.</strong>
-      </div>
-    </div>
-
-    <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px; max-width: 500px;">
-      <div id="changelog" style="flex: 1; padding: 10px; border: 1px solid #ccc; background: rgba(255, 255, 255, 0.1); border-radius: 5px;">
-        <h3 style="margin-top: 0; font-size: 1.2em;">Atualizações</h3>
-        <ul style="padding-left: 20px; margin: 0; list-style-type: disc;">
-          <li>Atualização 06/08/25 - Mudança na UI do site e correções gramaticais.</li>
-          <li>Atualização 02/08/25 - Pequena otimização e organização da Light Novel.</li>
-          <li>Atualização 29/07/25 - Lançado ao público.</li>
-          <li>Atualização 26/07/25 - Arrumado bugs de leitura.</li>
-          <li>Atualização 25/07/25 - Adicionado sistema de capítulos e atos.</li>
-          <li>Atualização 25/07/25 - Implementada interface para Computadores e outros dispostivos.</li>
-        </ul>
-      </div>
-
-      <a href="https://www.threads.net/@yamada_tww" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 8px; background: #000; text-decoration: none;">
-        <img src="https://freelogopng.com/images/all_img/1688663226threads-logo-png.png" alt="Threads Instagram" style="width: 45px; height: 45px;" />
-      </a>
-      <a href="https://x.com/Yer7R" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; border-radius: 8px; background: #000; text-decoration: none;">
-        <img src="https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png" alt="Twitter X" style="width: 45px; height: 45px;" />
-      </a>
+    
+    <div class="book-info">
+      <p class="book-synopsis">
+Em um mundo repleto de magia, uma guerra de escala global devastou nações, exércitos e até mesmo seres primordiais — todos unidos contra um único inimigo.
+Após muito tempo, em uma noite tempestuosa de raios cortando o céu, nasce uma garota marcada por uma promessa não dita. Ao despertar para a própria consciência, ela foge de seu vilarejo, acreditando ser a melhor escolha, e passa a viver como um animal nas profundezas da floresta.
+No entanto, seu destino muda quando cruza o caminho de uma elfa e é levada a integrar um grupo de aventureiros.
+Movida por uma única pergunta que ecoa em sua mente, ela parte em busca de uma única resposta:
+“Quem sou eu?”
+      </p>
+      <p class="book-details">
+        <strong>Gênero:</strong> Aventura Mistério Comédia Romance Fantasia Magia Cotidiano •  
+        <strong>Classificação:</strong> +14 •  
+        <strong>Formato:</strong> Light Novel
+      </p>
     </div>
   `;
 
-  // Ativa as FAQs
-  document.querySelectorAll(".faq-question").forEach(question => {
-    question.addEventListener("click", () => {
-      const item = question.parentElement;
-      item.classList.toggle("active");
-    });
-  });
-
   document.documentElement.style.setProperty('--background-url', "url('https://i.ibb.co/6cSgGzKb/Novo-Projeto-13.png')");
 }
-
 createChapterList();
 loadIntro();
