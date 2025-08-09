@@ -185,3 +185,44 @@ margin-bottom: 20px;
       margin-left: 0;
       }
     }
+/* Título de boas-vindas */
+.welcome-title {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+/* Fonte mais suave e moderna */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+body, .content {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Capa do livro */
+.book-cover-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.book-cover {
+  max-width: 300px; /* Ajuste aqui o tamanho da capa */
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+/* Sinopse e detalhes */
+.book-synopsis {
+  font-size: 1em;
+  color: #ddd;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.book-details {
+  font-size: 0.9em;
+  color: #bbb;
+  text-align: center;
+  margin-bottom: 20px;
+}
